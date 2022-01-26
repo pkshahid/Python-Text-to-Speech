@@ -2,7 +2,7 @@
 # apt-get install mpg321
 
 
-text = "Hello.This a test running of text to speech using python"
+text = str(input("Enter The Text : "))
 from gtts import gTTS
 import os
 # Language in which you want to convert
