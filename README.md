@@ -9,5 +9,7 @@ Requirements:
 
 How to use:
 1. Run python main.py in your terminal
-2. Input the text you want to convert to speech
+2. Input the text you want to convert to speech.
+
+
 All Done! :)
