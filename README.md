@@ -8,6 +8,6 @@ Requirements:
 2. apt-get install mpg321.
 
 How to use:
-1. Add input text you want to convert in to speech as text="Your text" at the starting of program.
-2. save the file.
-3. run python main.py  in your terminal.
+1. Run python main.py in your terminal
+2. Input the text you want to convert to speech
+All Done! :)
